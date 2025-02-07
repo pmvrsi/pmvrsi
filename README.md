@@ -15,7 +15,7 @@ Student @ <a href="https://www.theroyalschool.co.uk/">The Royal School Wolverham
   ## 🖥️ My Current Setup
   * 💻  **Computer:** MacBook Pro M2
   * 📱 **Notetaking Device:** iPad Pro M4
-  * 📞 **Mobile Device:** Blackberry Curve 9320
+  * 📞 **Mobile Device:** Samsung Z Fold 4 and Blackberry Curve 9320
 
   ---
 
