@@ -1,5 +1,5 @@
   <h1 style="vertical-align: middle">
-      I'm Paramveer Singh>
+      I'm Paramveer Singh
   </h1>
 
   ## 🔭 Current Focus
