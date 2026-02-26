@@ -8,7 +8,6 @@ Outside of tech, I work on my photography passion project, **The Building Collec
 
 ### 🚀 What I’m Working On
 
-* 🏠 **[RateMyAccom](https://ratemyaccom.cc)** - Currently serving as **CEO**, working on design systems and product marketing.
 * 💻 **HackUK** - **Founder** of a non-profit providing free hackathons for Sixth Form students across the UK.
 
 ### 🛠 Skills & Tools
@@ -18,3 +17,8 @@ Python, Java, Swift, HTML, CSS, JavaScript, Web Development
 
 **Focus Areas:**
 Front-end Development, Project Management, Entrepreneurship
+
+**Find more from me**
+
+If you want to find more from me, Check me out @ https://paramveer.co.uk/
+
